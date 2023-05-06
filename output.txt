@@ -1,0 +1,16 @@
+The original string is: Hello
+The length of the string is: 5
+No strings found on line.
+Therefore, length of string is 0.
+The original string is: Trees give oxygen.
+The length of the string is: 18
+The original string is: a
+The length of the string is: 1
+The original string is: -1
+The length of the string is: 2
+No strings found on line.
+Therefore, length of string is 0.
+The original string is: 67
+The length of the string is: 2
+The original string is: Ditto newJeans.
+The length of the string is: 15
